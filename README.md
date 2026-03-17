@@ -1,6 +1,7 @@
-# Chetan Shende
-
+<h1 align="center">Chetan Shende</h1>
+<p align="center">
 Full Stack Developer (MERN) | AI & ML Student | Open Source Contributor
+</p>
 
 ## About
 Computer Science Engineering student specializing in AI & ML. Focused on building scalable web applications and AI-powered systems. Strong foundation in Data Structures, problem solving, and backend development.
