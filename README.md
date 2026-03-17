@@ -1,101 +1,46 @@
-# Hi 👋, I'm Chetan Shende
+# Chetan Shende
 
-💻 Full Stack Developer | MERN Stack | AI Enthusiast  
-🎓 Computer Science Engineering (AI & ML) Student  
-🏆 Hackathon Winner | Open Source Contributor  
+Full Stack Developer (MERN) | AI & ML Student | Open Source Contributor
 
----
+## About
+Computer Science Engineering student specializing in AI & ML. Focused on building scalable web applications and AI-powered systems. Strong foundation in Data Structures, problem solving, and backend development.
 
-## 🚀 About Me
+## Skills
+- Languages: Java, JavaScript
+- Frontend: React.js, HTML, CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, Docker, Cloud, REST APIs
+- AI: Google Generative AI (Gemini)
 
-- 🔭 I’m currently working on **AI-powered web applications**
-- 🌱 Learning **Advanced AI + Coding Agents (LLMs)**
-- 💡 Passionate about building **real-world scalable solutions**
-- 🤝 Contributed to **Odoo Community (OCA)**
-- 🧠 Strong in **Java, DSA & Problem Solving**
+## Projects
+- LMS Platform (MERN) – Course selling system  
+  https://marketmasterminds-c1040257556d.herokuapp.com/
 
----
+- CodingNexus – DSA practice platform  
+  https://codingnexus.vercel.app/
 
-## 🛠️ Tech Stack
+- VIPWorkers – AI-based staffing platform  
+  https://vipworkers.in/
 
-**Languages:**
-- Java, JavaScript
+- EventSync – QR-based event management system  
+  https://event-hosting-management-system-nf8.vercel.app/
 
-**Frontend:**
-- HTML, CSS, React.js
+- Prompt Learning Web App – Prompt engineering platform  
+  https://prompt-web.onrender.com/
 
-**Backend:**
-- Node.js, Express.js
+## Experience
+Open Source Contributor – Odoo Community Association (OCA)
 
-**Database:**
-- MongoDB
+## Achievements
+- National Level Hackathon Winner – IEEE TechSangam 2025 (MIT Pune)
+- Participated in 6+ hackathons
 
-**Tools & Technologies:**
-- Git & GitHub
-- Docker
-- Cloud & Hosting
-- Google Generative AI (Gemini API)
+## Education
+B.E. Computer Science (AI & ML)  
+A. P. Shah Institute of Technology, Mumbai
 
----
-
-## 🚀 Projects
-
-### 🔹 MASTER MIND (LMS Platform)
-- MERN Stack course selling platform
-- Features: Authentication, Payment, Course Management  
-👉 Live: https://marketmasterminds-c1040257556d.herokuapp.com/
-
----
-
-### 🔹 CodingNexus
-- DSA Practice & Competitive Coding Platform  
-👉 Live: https://codingnexus.vercel.app/
-
----
-
-### 🔹 VIPWorkers
-- AI-based worker staffing platform for events  
-👉 Live: https://vipworkers.in/
-
----
-
-### 🔹 EventSync
-- QR-based Event Hosting & Management System  
-👉 Live: https://event-hosting-management-system-nf8.vercel.app/
-
----
-
-### 🔹 Prompt Learning Web App
-- Learn Prompt Engineering using Google Gemini AI  
-👉 Live: https://prompt-web.onrender.com/
-
----
-
-## 🏆 Achievements
-
-- 🥇 **National Level Hackathon Winner** – IEEE TechSangam 2025 (MIT Pune)
-  - 🏅 ₹1 Lakh Prize | 310+ Teams
-- 🎁 Received **Google GDSC Merchandise**
-- 💻 Participated in **6+ Hackathons**
-- 🔧 Open Source Contributor at **Odoo Community (OCA)**
-
----
-
-## 📚 Education
-
-🎓 B.E. Computer Science (AI & ML)  
-A. P. Shah Institute of Technology, Mumbai  
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: chetanshende137@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/chetan137  
-- 💻 GitHub: https://github.com/chetan137  
-
----
-
-## ⚡ Fun Fact
-
-I love building projects that solve **real-world problems** and participating in hackathons 🚀
+## Contact
+Email: chetanshende137@gmail.com  
+LinkedIn: https://www.linkedin.com/in/chetan137  
+GitHub: https://github.com/chetan137
