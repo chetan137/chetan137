@@ -47,14 +47,14 @@
 <tr>
 <td width="50%" valign="top">
 
-**🧩 [CodingNexus](https://codingnexus.live)**
+**🧩 [CodingNexus](https://codingnexus.apsit.edu.in/)**
 DSA & competitive coding platform — online judge with real-time execution, deployed via Docker & Nginx
 <br>`React` `Node.js` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-**🎓 [MASTER MIND](https://mastermind.live)**
+**🎓 [MASTER MIND](https://www.tradetrilogy.com/)** *(Trade Trilogy)*
 LMS course-selling platform — video streaming, course access, personalized dashboards
 <br>`MERN` `Payments`
 
@@ -63,14 +63,14 @@ LMS course-selling platform — video streaming, course access, personalized das
 <tr>
 <td width="50%" valign="top">
 
-**👷 [VIPWorkers](https://vipworkers.live)**
+**👷 [VIPWorkers](https://vipworkers.in/)**
 Event worker staffing & management — real-time invites with live location
 <br>`MERN` `Real-time`
 
 </td>
 <td width="50%" valign="top">
 
-**🎫 [EventSync](https://eventsync.live)**
+**🎫 [EventSync](https://event-hosting-management-system-nf8.vercel.app/)**
 QR-based event management — digital check-in, registration
 <br>`MERN` `QR Codes`
 
@@ -78,9 +78,12 @@ QR-based event management — digital check-in, registration
 </tr>
 </table>
 
-**🏗️ [AI-Powered Legacy System Modernization](https://IBMas400.live)** *(Hackathon)*
+**🏗️ [AI-Powered Legacy System Modernization](https://mumbai-hacks-chi.vercel.app/)** *(Hackathon)*
 Modernizes IBM AS/400 systems → JSON schemas, REST APIs & microservices
 <br>`Legacy Systems` `REST APIs` `Microservices`
+
+**🔐 [GoSecure](https://nakshatra-55.vercel.app/)** *(Hackathon — NAKSHATRA 2026)*
+<br>`Hackathon` `Security`
 
 <br/>
 
