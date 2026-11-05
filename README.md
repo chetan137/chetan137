@@ -54,9 +54,9 @@ DSA & competitive coding platform — online judge with real-time execution, dep
 </td>
 <td width="50%" valign="top">
 
-**🎓 [WALLNUT ANALYTICS](https://wallnut-omega.vercel.app/dashboard/)** *(Trade Trilogy)*
+**🎓 [WALLNUT ANALYTICS](https://wallnut-omega.vercel.app/dashboard/)** 
 Built a Node.js, Express incremental sync service using TallyPrime XML API to centralize sales, dealer, inventory and payment data in PostgreSQL. 
-<br>`MERN` `Payments`
+<br>`MERN` `TallyPrime`
 
 </td>
 </tr>
