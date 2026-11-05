@@ -54,8 +54,8 @@ DSA & competitive coding platform — online judge with real-time execution, dep
 </td>
 <td width="50%" valign="top">
 
-**🎓 [MASTER MIND](https://www.tradetrilogy.com/)** *(Trade Trilogy)*
-LMS course-selling platform — video streaming, course access, personalized dashboards
+**🎓 [WALLNUT ANALYTICS]((https://wallnut-omega.vercel.app/dashboard))** *(Trade Trilogy)*
+Built a Node.js, Express incremental sync service using TallyPrime XML API to centralize sales, dealer, inventory and payment data in PostgreSQL. 
 <br>`MERN` `Payments`
 
 </td>
